@@ -7,9 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
+<embed src="{{ site.baseurl }}/files/resume_2022_03.pdf" width="600" height="700" type='application/pdf'>
 
-Education
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

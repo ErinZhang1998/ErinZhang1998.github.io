@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "CMU 15-312 Foundations of Programming Languages"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/cmu-pl
+venue: "CMU SCS"
+date: 2020-01-01
+location: "Pittsburgh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Helping students to learn all the good stuff, such as inductive and coinductive types (my favorite), polymorphic and recursive type. Check out the website of this class in 2019: [15-312](https://www.andrew.cmu.edu/course/15-312/schedule.html).

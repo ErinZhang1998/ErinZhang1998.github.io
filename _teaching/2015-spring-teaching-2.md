@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "CMU 15-150 Functional Programming"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/cmu-fp
+venue: "CMU SCS"
+date: 2018-01-01
+location: "Pittsburgh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+"Well-typed expressions are evaluated to produce values, in a manner that is guaranteed to be type-safe." ([15-150](https://www.cs.cmu.edu/~15150/))
