@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/dmd
 excerpt: ""
 date: 2024-07-15
-venue: "Robotics: Science and Systems (RSS) 2024"
+venue: "Robotics: Science and Systems (RSS)"
 paperurl: "https://sites.google.com/view/diffusion-meets-dagger"
 ---
 

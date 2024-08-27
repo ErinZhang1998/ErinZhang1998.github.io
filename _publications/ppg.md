@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ppg
 excerpt: ""
 date: 2023-11-06
-venue: "Conference on Robot Learning (CoRL) 2023"
+venue: "Conference on Robot Learning (CoRL)"
 paperurl: "https://sites.google.com/view/pushpastgreen/"
 ---
 
